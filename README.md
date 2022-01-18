@@ -6,7 +6,7 @@
 - 👨‍🎓 Estudante Full Stack
 - 🌱 Estudando Spring e React 
 - 📫 Contate-me no email: pablodesouzadantas@gmail.com
-- *Estou sempre em busca de novos conhecimentos*
+- *Só o conhecimento liberta o homem*
 
  <div>
   <a href="https://github.com/pablodantas">
@@ -29,7 +29,6 @@
 - Estrutura de dados
 - Git
 - Backend
-  - NodeJS
   - Java
   - Spring Framework (Boot, Data JPA, Security e Web)
   - JSP
