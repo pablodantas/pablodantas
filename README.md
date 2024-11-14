@@ -39,11 +39,11 @@
   - CSS
   - JavaScript
   - TypeScript
+  - React.js
 
 
 ## 👨‍🎓 No momento estou aprendendo: 
 
-- React.js
 - NodeJS
 - TDD
 - Testes Automatizados
